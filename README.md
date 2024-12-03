@@ -1,4 +1,4 @@
-![logo](https://github.com/priyanshi-ux/priyanshi-ux/blob/main/PRIYANSHI-UX.pn)
+![logo](https://github.com/priyanshi-ux/priyanshi-ux/blob/main/PRIYANSHI-UX.png)
 <h1 align="center">Hi 👋, I'm Priyanshi Kushwaha</h1>
 ![logo]()<h3 align="center">A passionate frontend developer from India</h3>
 
