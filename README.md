@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-ux&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-ux" /> </p>
 
-- 🔭 I’m currently working on Computer sciencee **Doctor Availability tracker**
+- 🔭 I’m currently working on project **Doctor Availability tracker**
 
 - 🌱 I’m currently learning **React Native: For creating a cross-platform mobile application,Flutter, UI/UX Tools like Figma or Adobe XD**
 
