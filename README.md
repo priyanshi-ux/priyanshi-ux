@@ -14,7 +14,7 @@
 - 📫 How to reach me **priyanshikushwaha55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fstephcozza%2Flofi-gifs%2F&psig=AOvVaw2thY98ktOJdcAD3pZfzmQx&ust=1733330885108000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPihtfGGjIoDFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshi-kushwaha-3930012a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshi-kushwaha-3930012a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/i_.priyanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_.priyanshi" height="30" width="40" /></a>
