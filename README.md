@@ -1,6 +1,6 @@
 ![logo](https://github.com/priyanshi-ux/priyanshi-ux/blob/main/PRIYANSHI-UX.png)
 <h1 align="center">Hi 👋, I'm Priyanshi Kushwaha</h1>
-![logo]()<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer Empowering ideas through innovation and technology. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-ux&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-ux" /> </p>
 
